@@ -60,7 +60,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
    <img src="https://th.bing.com/th/id/R.81e72de9ec715cc3e0d2583ace0eb640?rik=nkpOi9XqzV0XAQ&pid=ImgRaw&r=0" title="IBM Cloud" alt="IBM Cloud" width="60" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.734cyyMrOAC23x6GcpMwSwHaEK?pid=ImgDet&rs=1" title="Azure" alt="Azure" width="60" height="40"/>&nbsp;
    <img src="https://www.c5alliance.com/wp-content/uploads/2021/01/power-bi_logo.png" title="Power BI" alt="Power BI " width="100" height="40"/>&nbsp;
-   <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png"  title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/R.2afaf3c6a5b3bddf01871094cbc7276b?rik=jA5JhKOM1OxabA&riu=http%3a%2f%2fwww.silicon.de%2fwp-content%2fuploads%2f2016%2f08%2ftableau1.jpg&ehk=bn5LDryeHX8sglUbZUnS1pJn0BaZflTgDgfxrL5zlIM%3d&risl=&pid=ImgRaw&r=0"  title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
    
 </div>
 
