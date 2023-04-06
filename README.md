@@ -53,18 +53,31 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlit" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MicrosoftSqlServer" alt="MicrosoftSqlServer" width="40" height="40"/>&nbsp;
-   <img src="https://th.bing.com/th/id/OIP.8BWXBFf0swPOJnlKK56aEAHaD1?pid=ImgDet&rs=1" title="Cognos" alt="Cognos" width="40" height="40"/>&nbsp;
-   <img src="https://th.bing.com/th/id/R.81e72de9ec715cc3e0d2583ace0eb640?rik=nkpOi9XqzV0XAQ&pid=ImgRaw&r=0" title="IBM Cloud" alt="IBM Cloud" width="40" height="40"/>&nbsp;
-   <img src="https://th.bing.com/th/id/OIP.734cyyMrOAC23x6GcpMwSwHaEK?pid=ImgDet&rs=1" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlit" width="60" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/OIP.Z86hSked6bhCCrvwCgOa_AHaD2?pid=ImgDet&rs=1" title="MicrosoftSqlServer" alt="MicrosoftSqlServer" width="60" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/OIP.8BWXBFf0swPOJnlKK56aEAHaD1?pid=ImgDet&rs=1" title="Cognos" alt="Cognos" width="60" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/R.81e72de9ec715cc3e0d2583ace0eb640?rik=nkpOi9XqzV0XAQ&pid=ImgRaw&r=0" title="IBM Cloud" alt="IBM Cloud" width="60" height="40"/>&nbsp;
+   <img src="https://th.bing.com/th/id/OIP.734cyyMrOAC23x6GcpMwSwHaEK?pid=ImgDet&rs=1" title="Azure" alt="Azure" width="60" height="40"/>&nbsp;
    <img src="https://www.c5alliance.com/wp-content/uploads/2021/01/power-bi_logo.png" title="Power BI" alt="Power BI " width="100" height="40"/>&nbsp;
    <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png"  title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
    
 </div>
 
 
+### :crown: Badges and Certifications :
+
+<div>
+  <img src="https://images.credly.com/size/680x680/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" title="IBM Data Analyst" alt="IBM Data Analyst" width="40" height="40"/>&nbsp;
+  <img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" title="Capstone project" alt="Capstone project" width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" title="python project" alt="python project" width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" title="Python for AI" alt="Python for AI" width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Azure Fundamental" alt="Azure Fundamental" width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/2b8d430e-096d-4e40-9b12-de11b91f8837/Data_Visualization___Dashboard_Essentials.png" title="Data Visualization by Cognos" alt="Data Visualization by Cognos " width="40" height="40"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png"  title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   
+</div>
 ---
 
 ### :fire: My Stats :
