@@ -62,6 +62,8 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
    <img src="https://www.c5alliance.com/wp-content/uploads/2021/01/power-bi_logo.png" title="Power BI" alt="Power BI " width="100" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/R.2afaf3c6a5b3bddf01871094cbc7276b?rik=jA5JhKOM1OxabA&riu=http%3a%2f%2fwww.silicon.de%2fwp-content%2fuploads%2f2016%2f08%2ftableau1.jpg&ehk=bn5LDryeHX8sglUbZUnS1pJn0BaZflTgDgfxrL5zlIM%3d&risl=&pid=ImgRaw&r=0"  title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
    <img src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"  title="SQL Server Integration Services" alt="SSIS" width="100" height="40"/>&nbsp
+   <img src="https://freesoft.ru/storage/images/221/2207/220636/220636_normal.png"  title="Visual Paradigm" alt="Visual Paradigm" width="40" height="40"/>&nbsp
+   
    
 </div>
 
