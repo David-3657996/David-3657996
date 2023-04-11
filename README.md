@@ -53,7 +53,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlit" width="60" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.Z86hSked6bhCCrvwCgOa_AHaD2?pid=ImgDet&rs=1" title="MicrosoftSqlServer" alt="MicrosoftSqlServer" width="60" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.8BWXBFf0swPOJnlKK56aEAHaD1?pid=ImgDet&rs=1" title="Cognos" alt="Cognos" width="60" height="40"/>&nbsp;
