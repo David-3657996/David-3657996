@@ -80,6 +80,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
    <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Azure Fundamental" alt="Azure Fundamental" width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/2b8d430e-096d-4e40-9b12-de11b91f8837/Data_Visualization___Dashboard_Essentials.png" title="Data Visualization by Cognos" alt="Data Visualization by Cognos " width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png"  title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   <img src="https://media.licdn.com/dms/image/D561FAQF9sGLdcfYWnA/feedshare-document-cover-images_1280/0/1681251086198?e=1681858800&v=beta&t=YgMRfr5fIBzkIJvKoseJ-TI0i-6IZgKZZ3nS6DTauu8"  title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
    
 </div>
 ---
