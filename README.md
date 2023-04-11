@@ -72,7 +72,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 ### :crown: Badges and Certifications :
 
 <div>
-  <img src="https://www.coursera.org/account/accomplishments/specialization/certificate/SG83CDQCF5NC" title="IBM Data Analyst" alt="IBM Data Analyst" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/David-3657996/David-3657996/blob/main/IBM%20Data%20Analyst.png?raw=true" title="IBM Data Analyst" alt="IBM Data Analyst" width="40" height="40"/>&nbsp;
   <img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" title="Capstone project" alt="Capstone project" width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" title="python project" alt="python project" width="40" height="40"/>&nbsp;
