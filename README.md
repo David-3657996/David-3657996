@@ -63,7 +63,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
    <img src="https://th.bing.com/th/id/R.2afaf3c6a5b3bddf01871094cbc7276b?rik=jA5JhKOM1OxabA&riu=http%3a%2f%2fwww.silicon.de%2fwp-content%2fuploads%2f2016%2f08%2ftableau1.jpg&ehk=bn5LDryeHX8sglUbZUnS1pJn0BaZflTgDgfxrL5zlIM%3d&risl=&pid=ImgRaw&r=0"  title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
    <img src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"  title="SQL Server Integration Services" alt="SSIS" width="100" height="40"/>&nbsp
    <img src="https://freesoft.ru/storage/images/221/2207/220636/220636_normal.png"  title="Visual Paradigm" alt="Visual Paradigm" width="40" height="40"/>&nbsp
-   <img src="https://www.bing.com/images/search?view=detailV2&ccid=uGZkhhJ1&id=86F398D5D26F6E4685666000B3BBE80B3B482D58&thid=OIP.uGZkhhJ10bvlLhxmYrnm2wHaEK&mediaurl=https%3a%2f%2flogodix.com%2flogo%2f701195.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b86664861275d1bbe52e1c6662b9e6db%3frik%3dWC1IOwvou7MAYA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=VBA+Logo&simid=607991228706535643&FORM=IRPRST&ck=D74C6040CD412BEA38AF5ADBFA80E268&selectedIndex=0"  title="VBA" alt="VBA" width="40" height="40"/>&nbsp
+   <img src="https://qph.fs.quoracdn.net/main-qimg-91e9c9cb7b33fbe025b71b119fe9f753"  title="VBA" alt="VBA" width="40" height="40"/>&nbsp
    
    
 </div>
