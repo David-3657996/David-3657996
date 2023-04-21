@@ -72,15 +72,15 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 
 <div>
   <img src="https://github.com/David-3657996/David-3657996/blob/main/IBM%20Data%20Analyst.png?raw=true" title="IBM Data Analyst" alt="IBM Data Analyst" width="60" height="60"/>&nbsp;
-  <img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" title="Capstone project" alt="Capstone project" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" title="python project" alt="python project" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" title="Python for AI" alt="Python for AI" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Azure Fundamental" alt="Azure Fundamental" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/2b8d430e-096d-4e40-9b12-de11b91f8837/Data_Visualization___Dashboard_Essentials.png" title="Data Visualization by Cognos" alt="Data Visualization by Cognos " width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png"  title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/David-3657996/David-3657996/blob/main/CertificateOfCompletion_Excel%20VBA%20Managing%20Files%20and%20Data%20(NASBA).png?raw=true"  title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/David-3657996/David-3657996/blob/main/Certification%20for%20NPower%20Canada.png?raw=true"  title="NPower Canada" alt="Junior Data Analyst" width="40" height="40"/>&nbsp;
+  <img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" title="Capstone project" alt="Capstone project" width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" title="python project" alt="python project" width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" title="Python for AI" alt="Python for AI" width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Azure Fundamental" alt="Azure Fundamental" width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/2b8d430e-096d-4e40-9b12-de11b91f8837/Data_Visualization___Dashboard_Essentials.png" title="Data Visualization by Cognos" alt="Data Visualization by Cognos " width="60" height="60"/>&nbsp;
+   <img src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png"  title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/David-3657996/David-3657996/blob/main/CertificateOfCompletion_Excel%20VBA%20Managing%20Files%20and%20Data%20(NASBA).png?raw=true"  title="VBA" alt="VBA" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/David-3657996/David-3657996/blob/main/Certification%20for%20NPower%20Canada.png?raw=true"  title="NPower Canada" alt="Junior Data Analyst" width="60" height="60"/>&nbsp;
 </div>
 ---
 
