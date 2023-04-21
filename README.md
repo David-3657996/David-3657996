@@ -53,7 +53,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlit" width="60" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.8BWXBFf0swPOJnlKK56aEAHaD1?pid=ImgDet&rs=1" title="Cognos" alt="Cognos" width="60" height="40"/>&nbsp;
    <img src="https://th.bing.com/th/id/R.81e72de9ec715cc3e0d2583ace0eb640?rik=nkpOi9XqzV0XAQ&pid=ImgRaw&r=0" title="IBM Cloud" alt="IBM Cloud" width="60" height="40"/>&nbsp;
@@ -71,7 +71,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 ### :crown: Badges and Certifications :
 
 <div>
-  <img src="https://github.com/David-3657996/David-3657996/blob/main/IBM%20Data%20Analyst.png?raw=true" title="IBM Data Analyst" alt="IBM Data Analyst" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/David-3657996/David-3657996/blob/main/IBM%20Data%20Analyst.png?raw=true" title="IBM Data Analyst" alt="IBM Data Analyst" width="60" height="60"/>&nbsp;
   <img src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" title="Capstone project" alt="Capstone project" width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
    <img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" title="python project" alt="python project" width="40" height="40"/>&nbsp;
