@@ -54,13 +54,13 @@ I am a Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/g
 
 <div>
   <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"  title="SQL Server Integration Services" alt="SSIS" width="80" height="60"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlit" width="60" height="60"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.8BWXBFf0swPOJnlKK56aEAHaD1?pid=ImgDet&rs=1" title="Cognos" alt="Cognos" width="60" height="60"/>&nbsp;
    <img src="https://th.bing.com/th/id/R.81e72de9ec715cc3e0d2583ace0eb640?rik=nkpOi9XqzV0XAQ&pid=ImgRaw&r=0" title="IBM Cloud" alt="IBM Cloud" width="60" height="60"/>&nbsp;
    <img src="https://th.bing.com/th/id/OIP.734cyyMrOAC23x6GcpMwSwHaEK?pid=ImgDet&rs=1" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
    <img src="https://www.c5alliance.com/wp-content/uploads/2021/01/power-bi_logo.png" title="Power BI" alt="Power BI " width="80" height="60"/>&nbsp;
    <img src="https://th.bing.com/th/id/R.2afaf3c6a5b3bddf01871094cbc7276b?rik=jA5JhKOM1OxabA&riu=http%3a%2f%2fwww.silicon.de%2fwp-content%2fuploads%2f2016%2f08%2ftableau1.jpg&ehk=bn5LDryeHX8sglUbZUnS1pJn0BaZflTgDgfxrL5zlIM%3d&risl=&pid=ImgRaw&r=0"  title="Tableau" alt="Tableau" width="80" height="60"/>&nbsp;
-   <img src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"  title="SQL Server Integration Services" alt="SSIS" width="80" height="60"/>&nbsp
    <img src="https://freesoft.ru/storage/images/221/2207/220636/220636_normal.png"  title="Visual Paradigm" alt="Visual Paradigm" width="60" height="60"/>&nbsp
    <img src="https://th.bing.com/th/id/R.b86664861275d1bbe52e1c6662b9e6db?rik=WC1IOwvou7MAYA&pid=ImgRaw&r=0"  title="VBA" alt="VBA" width="60" height="60"/>&nbsp
    
